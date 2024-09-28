@@ -1,0 +1,6 @@
+/* Scope Tailwind styles */
+.tailwind-scope {
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+}

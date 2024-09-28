@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'home' => 'الرئيسية',
+    'about' => 'معلومات عنا',
+    'doctors' => 'الأطباء',
+    'news' => 'الأخبار',
+    'contact' => 'تواصل معنا',
+    'login' => 'تسجيل الدخول',
+    'register' => 'تسجيل',
+    'profile' => 'الملف الشخصي',
+    'logout' => 'تسجيل الخروج',
+    'language' => 'اللغة',
+    'my_appointments' => 'مواعيدي',
+    'Approved'=>'مقبول',
+    'In Progress'=>'قيد الانتظار',
+    'title' => 'مواعيدي',
+    'search_placeholder' => 'ابحث بالاسم أو الطبيب...',
+    'search' => 'بحث',
+    'id' => 'الرقم',
+    'name' => 'الاسم',
+    'email' => 'البريد الإلكتروني',
+    'phone' => 'الهاتف',
+    'doctor_name' => 'اسم الطبيب',
+    'speciality' => 'التخصص',
+    'date' => 'التاريخ',
+    'message' => 'الرسالة',
+    'status' => 'الحالة',
+    'controls' => 'التحكم',
+    'cancel_confirmation' => 'هل أنت متأكد أنك تريد إلغاء الموعد؟',
+    'cancel' => 'إلغاء',
+    'approve' => 'تأكيد',
+    'no_appointments' => 'لا توجد مواعيد.',
+
+
+];
